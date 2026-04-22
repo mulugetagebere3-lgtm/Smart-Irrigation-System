@@ -10,3 +10,7 @@ This project is an AI-powered irrigation controller developed on a **Raspberry P
 - Python
 - Robot Hat Library
 - Machine Learning (Inference)
+### 🔧 Installation
+To run this project, you need to install the required library:
+```bash
+pip install robot-hat
